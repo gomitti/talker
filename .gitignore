@@ -1,3 +1,9 @@
+# cloud9
+.c9/
+
+# dst
+dst/
+
 # Logs
 logs
 *.log

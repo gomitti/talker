@@ -1,0 +1,17 @@
+{
+  "name": "talker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gomitti/talker.git"
+  },
+  "keywords": [],
+  "author": "gomitti",
+  "bugs": {
+    "url": "https://github.com/gomitti/talker/issues"
+  },
+  "homepage": "https://github.com/gomitti/talker#readme"
+}
